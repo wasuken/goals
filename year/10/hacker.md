@@ -1,5 +1,7 @@
 # Hackerになりたい
 
+10年でなれるとは想定してない。
+
 ここで他人の定義するHackerなどはどうでもいい。
 
 私の定義するHackerとは、いわば
@@ -28,10 +30,6 @@
 
 * Lisp
 
-* RDBMS Database
-
-* HTTP Client/Server
-
 * Other 1..3 Protocol(IMAP, POP, SMTP...)
 
 ### CSに一つ以上の精通分野がある
@@ -41,5 +39,7 @@ DatabaseとNetworkが候補。
 ## あればよし
 
 ### 上級Commmon Lisperである
+
+RDBMS Databaseを実装すれば上級者？
 
 ### Hardware知識もある
